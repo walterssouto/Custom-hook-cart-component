@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/Custom-hook-cart-component/static/js/main.4371d9cf.chunk.js",
+    "main.js.map": "/Custom-hook-cart-component/static/js/main.4371d9cf.chunk.js.map",
+    "runtime-main.js": "/Custom-hook-cart-component/static/js/runtime-main.fc40130f.js",
+    "runtime-main.js.map": "/Custom-hook-cart-component/static/js/runtime-main.fc40130f.js.map",
+    "static/css/2.a08119d7.chunk.css": "/Custom-hook-cart-component/static/css/2.a08119d7.chunk.css",
+    "static/js/2.c1462099.chunk.js": "/Custom-hook-cart-component/static/js/2.c1462099.chunk.js",
+    "static/js/2.c1462099.chunk.js.map": "/Custom-hook-cart-component/static/js/2.c1462099.chunk.js.map",
+    "static/js/3.afca4eb5.chunk.js": "/Custom-hook-cart-component/static/js/3.afca4eb5.chunk.js",
+    "static/js/3.afca4eb5.chunk.js.map": "/Custom-hook-cart-component/static/js/3.afca4eb5.chunk.js.map",
+    "index.html": "/Custom-hook-cart-component/index.html",
+    "static/css/2.a08119d7.chunk.css.map": "/Custom-hook-cart-component/static/css/2.a08119d7.chunk.css.map",
+    "static/js/2.c1462099.chunk.js.LICENSE.txt": "/Custom-hook-cart-component/static/js/2.c1462099.chunk.js.LICENSE.txt",
+    "static/media/background.d1721c83.svg": "/Custom-hook-cart-component/static/media/background.d1721c83.svg",
+    "static/media/logo.eb50c339.svg": "/Custom-hook-cart-component/static/media/logo.eb50c339.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc40130f.js",
+    "static/css/2.a08119d7.chunk.css",
+    "static/js/2.c1462099.chunk.js",
+    "static/js/main.4371d9cf.chunk.js"
+  ]
+}
